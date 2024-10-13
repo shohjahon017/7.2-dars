@@ -1,0 +1,50 @@
+{
+  "en": {
+    "translation": {
+      "logo": "YOUR LOGO",
+      "assets": "Assets",
+      "creators": "Creators",
+      "careers": "Careers",
+      "goPro": "Go Pro",
+      "search": "Search",
+      "security": "A SECURITY SOLUTION",
+      "title": "Keep track of your loved ones in real time!",
+      "p": "We noticed the high level of insecurity in the world, and we thought of how technology could be used to combat these insecurities.",
+      "join": "Join Our Waitlist!",
+      "beFirst": "Be the first to get notified when the product is ready!",
+      "email": "Your email address"
+    }
+  },
+  "ru": {
+    "translation": {
+      "logo": "ВАШ ЛОГОТИП",
+      "assets": "Активы",
+      "creators": "Создатели",
+      "careers": "Карьера",
+      "goPro": "Go Pro",
+      "search": "Поиск",
+      "security": "РЕШЕНИЕ БЕЗОПАСНОСТИ",
+      "title": "Следите за своими близкими в реальном времени!",
+      "p": "Мы заметили высокий уровень небезопасности в мире и подумали, как можно использовать технологии для борьбы с этими угрозами.",
+      "join": "Присоединяйтесь к нашему списку ожидания!",
+      "beFirst": "Будьте первыми, кто получит уведомление, когда продукт будет готов!",
+      "email": "Ваш адрес электронной почты"
+    }
+  },
+  "uz": {
+    "translation": {
+      "logo": "SIZNING LOGO",
+      "assets": "Aktivlar",
+      "creators": "Yaratuvchilar",
+      "careers": "Karyera",
+      "goPro": "Go Pro",
+      "search": "Qidiruv",
+      "security": "XAVFSIZLIK YECHIMI",
+      "title": "Yaqinlaringizni real vaqt rejimida kuzatib boring!",
+      "p": "Dunyodagi yuqori darajadagi xavfsizliksizlikni sezdik va bu muammolarni bartaraf etish uchun texnologiyalardan foydalanish haqida o'yladik.",
+      "join": "Bizning kutish ro'yxatiga qo'shiling!",
+      "beFirst": "Mahsulot tayyor bo'lganda birinchi bo'lib xabar oling!",
+      "email": "Sizning email manzilingiz"
+    }
+  }
+}
